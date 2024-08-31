@@ -11,7 +11,7 @@ This Chrome extension intercepts Google search queries and sends them to the Cha
 ## Configuration and Installation
 
 1. Before using the extension, you need to add your OpenAI API key:
-   1. IF don't have an API key already, you can get one here - https://platform.openai.com/api-keys
+   1. If don't have an API key already, you can get one here - https://platform.openai.com/api-keys
    1. Open the `background.js` file.
    1. Replace `'PUT API KEY HERE'` with your actual OpenAI API key.
 1. Open Google Chrome and navigate to `chrome://extensions`.
