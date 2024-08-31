@@ -17,3 +17,13 @@ Before using the extension, you need to add your OpenAI API key:
 1. Open Google Chrome and navigate to `chrome://extensions`.
 1. Enable "Developer mode" by toggling the switch in the top right corner.
 1. Click "Load unpacked" and select the directory containing the extension files.
+
+## Usage
+
+1. Perform a Google search as you normally would.
+2. The extension will intercept the search, send it to ChatGPT, and open a new tab with the response.
+3. View the ChatGPT response in the newly opened tab.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
