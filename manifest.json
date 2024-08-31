@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Google to ChatGPT API",
+  "version": "1.0",
+  "description": "Submits Google queries to ChatGPT API and displays results",
+  "permissions": [
+    "tabs",
+    "webNavigation"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "host_permissions": [
+    "https://api.openai.com/*"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "web_accessible_resources": [{
+    "resources": ["results.html", "results.js"],
+    "matches": ["<all_urls>"]
+  }]
+}
