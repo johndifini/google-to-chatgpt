@@ -20,7 +20,7 @@ This Chrome extension intercepts Google search queries and sends them to the Cha
 
 ## Usage
 
-1. Perform a Google search as you normally would.
+1. Perform a Google search as you normally would, either from google.com or your Chrome address bar.
 2. The extension will intercept the search, send it to ChatGPT, and open a new tab with the response.
 3. View the ChatGPT response in the newly opened tab.
 
