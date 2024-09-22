@@ -1,6 +1,6 @@
 # Google to ChatGPT Chrome Extension
 
-[AI for Google Search Chrome Extension]([url](https://github.com/johndifini/AI-for-Google-Search-Chrome-Extension/tree/main)) HAS SUPERSEEDED THIS CHROME EXTENSION
+[AI for Google Search Chrome Extension](https://github.com/johndifini/AI-for-Google-Search-Chrome-Extension/tree/main) HAS SUPERSEEDED THIS CHROME EXTENSION
 
 This Chrome extension intercepts Google search queries and sends them to the ChatGPT API, displaying the results in a new tab. It combines the power of Google Autocomplete with the intelligence of ChatGPT. It handles Google searches from Chrome's address bar or from Google's search page.
 
